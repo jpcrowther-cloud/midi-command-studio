@@ -6,7 +6,9 @@ This repository is used for public installer releases and update downloads for M
 
 ## Download
 
-Download the latest Windows installer from the [Releases page](https://github.com/jpcrowther-cloud/midi-command-studio/releases/latest).
+Download the latest Windows installer from the Releases page:
+
+https://github.com/jpcrowther-cloud/midi-command-studio/releases/latest
 
 Official website:
 
@@ -14,7 +16,7 @@ https://midicommandstudio.com
 
 ## Documentation and support
 
-Documentation, release notes, support information, and issue templates are available in the public documentation repo:
+Documentation, release notes, support information, and issue templates are available here:
 
 https://github.com/jpcrowther-cloud/midi-command-studio-docs
 
@@ -22,4 +24,6 @@ https://github.com/jpcrowther-cloud/midi-command-studio-docs
 
 MIDI Command Studio is currently Windows only.
 
-This repository is for release distribution. The application source code is not published here.
+This repository is for release distribution.
+
+The application source code is not published here.
